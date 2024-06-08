@@ -69,7 +69,7 @@ public class MyApp {
         ////////////////////////
 
 
-        // a.db.save("1", "null431431134gsg");
+        a.db.save("key-1", "null431431134gsg");
 
         // int i = 0;
         // while (i < 10000) {
